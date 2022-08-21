@@ -3,7 +3,7 @@
 // Require the linked list implementation
 const LinkedList = require('../../linked-list');
 
-
+console.log();
 /*
   Accept a linked list
   Reveres it
